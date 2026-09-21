@@ -1,7 +1,7 @@
 ---
 category: "Pest PHP"
 tags: ["Pest", "Testing", "DX"]
-date: "2026-05-18"
+date: "2026-07-28"
 author: "Punyapal Shah"
 author_url: "https://x.com/MrPunyapal"
 subcategory: "Plugins"
